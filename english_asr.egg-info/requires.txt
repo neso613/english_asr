@@ -1,0 +1,4 @@
+setuptools>=38.5.1
+soundfile>=0.10.2
+librosa
+tensorflow
