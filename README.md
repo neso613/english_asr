@@ -1,7 +1,6 @@
 # english_asr_pip_wheel
 A pip wheel for custom AI model
-
-An Automatic Speech Recognition (ASR) models in TensorFlow Lite (TFLite) for TensorFlow 2.x. We provide end-to-end Jupyter Notebooks that show the inference process using TFLite.
+[English-ASR pip wheel](https://pypi.org/project/english-asr/1.1/)
 
 ## Installation
 - tensorflow
