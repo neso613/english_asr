@@ -1,6 +1,6 @@
 # english_asr_pip_wheel
 A pip wheel for custom AI model
-[English-ASR pip wheel](https://pypi.org/project/english-asr/1.1/)
+[English-ASR pip wheel](https://pypi.org/project/english-asr/1.2/)
 
 ## Installation
 - tensorflow
