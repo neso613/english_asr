@@ -13,7 +13,7 @@ An Automatic Speech Recognition (ASR) models in TensorFlow Lite (TFLite) for Ten
 
 ## How To Run
 ```
-from english_asr.conformer import get_text_from_speech/
+from english_asr.conformer import get_text_from_speech
 out = get_text_from_speech('audio.wav')
 ```
 
