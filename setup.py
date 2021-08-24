@@ -13,7 +13,7 @@ setup(
     author="Neha Soni",
     author_email = 'soni.neha45@gmail.com',
     url = 'https://github.com/neso613/english_asr',
-    description="An Automatic Speech Recognition(ASR) for English language trained on LibriSpeech dataset using Conformer.",
+    description="An Automatic Speech Recognition (ASR) for English language trained on LibriSpeech dataset using Conformer architecture.",
     long_description=long_description,
     long_description_content_type='text/markdown',
     license="Apache-2.0",
