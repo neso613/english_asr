@@ -2,6 +2,8 @@
 A pip wheel for custom AI model
 [English-ASR pip wheel](https://pypi.org/project/english-asr/1.2/)
 
+#### Note: This wheel works on image data only, adding video stream as input is the future work.
+
 ## Installation
 - tensorflow
 - numpy
